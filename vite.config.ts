@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
     VitePWA({
+      injectRegister: 'script',
       registerType: 'autoUpdate',
       manifest: {
         // content of manifest
