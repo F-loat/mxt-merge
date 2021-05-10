@@ -1,1 +1,1 @@
-{"name":"mxt-merge","short_name":"mxt-merge","start_url":"/mxt-merge/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/mxt-merge/"}
+{"name":"mxt-merge","short_name":"mxt-merge","start_url":"/mxt-merge/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/mxt-merge/","icons":[{"src":"./img/icons/192x192.png","sizes":"192x192","type":"image/png"},{"src":"./img/icons/512x512.png","sizes":"512x512","type":"image/png"}]}
