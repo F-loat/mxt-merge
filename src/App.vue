@@ -17,7 +17,7 @@ export default defineComponent({
 <style>
 @font-face {
   font-family: ZpixReviewOnline;
-  src: url(https://zpix.now.sh/zpix.woff2?v2021-03-21);
+  src: url(/zpix.woff2);
   font-display: swap;
 }
 

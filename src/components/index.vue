@@ -82,6 +82,12 @@ export default defineComponent({
   justify-content: space-around;
 }
 
+.nes-btn input[type=file] {
+  position: absolute;
+  pointer-events: none;
+  opacity: 0;
+}
+
 .choose-file {
   opacity: 0;
   width: 0;
